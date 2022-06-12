@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @glennbey
-- 👀 I’m interested in Web and Software Development
+- 👀 I’m interested in Web Development, Software Development and Cyber Security
 - 🌱 I’m currently learning Responsive Web Design Certification
 - 📫 How to reach me email glenbey@gmail.com. 
 
